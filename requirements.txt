@@ -1,0 +1,10 @@
+requests
+BeautifulSoup
+numpy
+pandas
+vaderSentiment
+sqlite3
+nltk
+plotly
+wordcloud
+matplotlib
